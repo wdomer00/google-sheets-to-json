@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var Color;
 (function (Color) {
+    Color["Aqua"] = "Aqua";
     Color["Beige"] = "Beige";
     Color["Black"] = "Black";
     Color["Blue"] = "Blue";
@@ -9,7 +10,6 @@ var Color;
     Color["Colorful"] = "Colorful";
     Color["Gray"] = "Gray";
     Color["Green"] = "Green";
-    Color["LightBlue"] = "Light blue";
     Color["Orange"] = "Orange";
     Color["Pink"] = "Pink";
     Color["Purple"] = "Purple";
